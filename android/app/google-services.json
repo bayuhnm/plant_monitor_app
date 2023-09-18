@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944964898594",
+    "firebase_url": "https://esp32-flutter-projectbee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-flutter-projectbee",
+    "storage_bucket": "esp32-flutter-projectbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944964898594:android:48df2e40071a826ec01f7b",
+        "android_client_info": {
+          "package_name": "com.example.plant_monitor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944964898594-hqkit28fojckrqlu4b9kk03mk9dibrcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYFWNddjU8Ro2mmMkNIQ86C6MfcV3xMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944964898594-hqkit28fojckrqlu4b9kk03mk9dibrcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
